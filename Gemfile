@@ -12,7 +12,11 @@ gem 'pg'
 
 
 gem  'soundcloud'
+
 gem 'rails_12factor'
+
+gem 'rack-cors', :require => 'rack/cors'
+
 
 
 # To use ActiveModel has_secure_password
