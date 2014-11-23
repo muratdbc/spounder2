@@ -8,10 +8,11 @@ gem 'rails-api'
 gem 'spring', :group => :development
 
 
-gem 'sqlite3'
+gem 'pg'
 
 
 gem  'soundcloud'
+gem 'rails_12factor'
 
 
 # To use ActiveModel has_secure_password
