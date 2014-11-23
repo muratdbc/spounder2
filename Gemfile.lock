@@ -101,7 +101,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-
   pg
   rack-cors
   rails (= 4.1.7)
